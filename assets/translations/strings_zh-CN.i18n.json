@@ -29,7 +29,7 @@
         "start": "开始"
     },
     "domain": {
-        "checkPassed": "检查通过",
+        "checkPassed": "连接成功",
         "connectionFailed": "连接失败",
         "retryAttempts": "重试次数"
     },
@@ -61,7 +61,7 @@
         "threeYearPrice": "三年付价格",
         "onetimePrice": "一次性购买价格",
         "orderSuccess": "订单支付成功",
-        "total": "套餐价格",
+        "total": "结算",
         "walletDeduction": "钱包扣除",
         "amountToPay": "支付金额",
         "payNowFree": "立即支付（免费）",
@@ -106,7 +106,7 @@
         }
     },
     "userInfo": {
-        "pageTitle": "用户信息",
+        "pageTitle": "我的",
         "balance": "余额",
         "onlyForConsumption": "仅消费用",
         "commissionBalance": "剩余佣金",
@@ -163,13 +163,13 @@
         "confirmButton": "登出"
     },
     "login": {
-        "welcome": "hello",
+        "welcome": "Hello",
         "username": "用户名",
         "password": "密码",
         "loginButton": "登录",
         "forgotPassword": "忘记密码",
         "register": "注册",
-        "rememberMe": "记住账号密码",
+        "rememberMe": "记住密码",
         "loginErr": "登录失败"
     },
     "forgetPassword": {
