@@ -1,6 +1,6 @@
 {
     "general": {
-        "appTitle": "Hiddify",
+        "appTitle": "寻乐云",
         "reset": "Reset",
         "toggle": {
             "enabled": "Enabled",
@@ -163,7 +163,7 @@
         "confirmButton": "Logout"
     },
     "login": {
-        "welcome": "Welcome to V2Hiddify",
+        "welcome": "Welcome to Xunlecloud",
         "username": "Username",
         "password": "Password",
         "loginButton": "Login",
