@@ -5,7 +5,7 @@ import 'package:http/http.dart' as http;
 
 class DomainService {
   static const String ossDomain =
-      'https://round-cell-05c4.kiss2436123.workers.dev/';
+      'https://cf.leyun.us.kg';
 
 // 从返回的 JSON 中挑选一个可以正常访问的域名
   static Future<String> fetchValidDomain() async {
