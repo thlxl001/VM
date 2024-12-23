@@ -163,8 +163,8 @@
         "confirmButton": "登出"
     },
     "login": {
-        "welcome": "Hello",
-        "username": "用户名",
+        "welcome": "Hi ",
+        "username": "邮箱",
         "password": "密码",
         "loginButton": "登录",
         "forgotPassword": "忘记密码",
