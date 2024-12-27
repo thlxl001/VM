@@ -4,7 +4,10 @@
     android:height="108dp"
     android:viewportWidth="3750"
     android:viewportHeight="3750">
-
+  <group android:scaleX="0.75"
+        android:scaleY="0.75"
+        android:translateX="0"
+        android:translateY="0">
     <path
         android:fillColor="#08a3fe"
         android:fillAlpha=".992"
