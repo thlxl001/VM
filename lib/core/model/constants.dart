@@ -6,7 +6,7 @@ abstract class Constants {
   static const githubLatestReleaseUrl =
      "https://github.com/xunle15/xunle/releases/latest";
   static const appCastUrl = 
-     "https://raw.githubusercontent.com/xunle15/xunle/main/appcast.xml"
+     "https://raw.githubusercontent.com/xunle15/xunle/main/appcast.xml";
   static const telegramChannelUrl = "https://t.me/xunlecloud";
   static const privacyPolicyUrl = "https://v100me.xunle.de";
   static const termsAndConditionsUrl = "https://v50me.xunle.de";
