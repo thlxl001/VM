@@ -1,15 +1,15 @@
 abstract class Constants {
   static const appName = "寻乐云";
-  static const githubUrl = "https://github.com/hiddify/hiddify-next";
+  static const githubUrl =  "https://github.com/xunle15/xunle";
   static const githubReleasesApiUrl =
-      "https://api.github.com/repos/hiddify/hiddify-next/releases";
+     "https://api.github.com/repos/xunle15/xunle/releases";
   static const githubLatestReleaseUrl =
-      "https://github.com/hiddify/hiddify-next/releases/latest";
-  static const appCastUrl =
-      "https://raw.githubusercontent.com/hiddify/hiddify-next/main/appcast.xml";
+     "https://github.com/xunle15/xunle/releases/latest";
+  static const appCastUrl = 
+     "https://raw.githubusercontent.com/xunle15/xunle/main/appcast.xml"
   static const telegramChannelUrl = "https://t.me/xunlecloud";
-  static const privacyPolicyUrl = "https://hiddify.com/privacy-policy/";
-  static const termsAndConditionsUrl = "https://hiddify.com/terms/";
+  static const privacyPolicyUrl = "https://v100me.xunle.de";
+  static const termsAndConditionsUrl = "https://v50me.xunle.de";
   static const cfWarpPrivacyPolicy =
       "https://www.cloudflare.com/application/privacypolicy/";
   static const cfWarpTermsOfService =
