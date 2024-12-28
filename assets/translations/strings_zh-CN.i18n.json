@@ -360,8 +360,8 @@
                 "light": "浅色",
                 "black": "黑色"
             },
-            "enableAnalytics": "启用分析",
-            "enableAnalyticsMsg": "授予收集分析并发送崩溃报告以改进应用程序的权限",
+            "enableAnalytics": "崩溃日志",
+            "enableAnalyticsMsg": "授予收集分析崩溃报告以改进应用程序的权限",
             "autoStart": "开机启动",
             "silentStart": "静默启动",
             "openWorkingDir": "打开工作目录",
