@@ -16,7 +16,7 @@ on:
 env:
   IS_GITHUB_ACTIONS: 1
   CHANNEL: "${{ inputs.channel }}"
-  FLUTTER_VERSION: '3.24.1'
+  FLUTTER_VERSION: '3.24.2'
   UPLOAD_ARTIFACT: "${{ inputs.upload-artifact }}"
   TAG_NAME: "${{ inputs.tag-name }}"
   TARGET_NAME_apk: "寻乐云-Android"
