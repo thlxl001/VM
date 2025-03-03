@@ -71,7 +71,6 @@ jobs:
           done
 
       - name: Upload Linux Artifact
-        if: env.UPLOAD_ARTIFACT == 'true'
         uses: actions/upload-artifact@v4
         with:
           name: linux
@@ -113,7 +112,6 @@ jobs:
           flutter build apk --release
 
       - name: Upload APK Artifact
-        if: env.UPLOAD_ARTIFACT == 'true'
         uses: actions/upload-artifact@v4
         with:
           name: apk
@@ -157,7 +155,6 @@ jobs:
           .\\scripts\\package_windows.ps1
           
       - name: Upload Windows Artifact
-        if: env.UPLOAD_ARTIFACT == 'true'
         uses: actions/upload-artifact@v4
         with:
           name: windows
@@ -198,7 +195,6 @@ jobs:
           mv dist/*/*.pkg out/${TARGET_NAME_pkg}.pkg
 
       - name: Upload macOS Artifact
-        if: env.UPLOAD_ARTIFACT == 'true'
         uses: actions/upload-artifact@v4
         with:
           name: macOS
@@ -207,7 +203,7 @@ jobs:
 
   build_ios:
     permissions: write-all
-    runs-on: macos-12
+    runs-on: macos-14
     steps:
       - name: Checkout
         uses: actions/checkout@v3
