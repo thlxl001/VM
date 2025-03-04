@@ -1,5 +1,5 @@
 abstract class Constants {
-  static const appName = "寻乐云";
+  static const appName = "VM云";
   static const githubUrl =  "https://url.xunle.de";
   static const githubReleasesApiUrl =
      "https://api.github.com/repos/xunle15/xunle/releases";
